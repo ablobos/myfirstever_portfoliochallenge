@@ -19,8 +19,8 @@ As one of my earliest challenges since joining Columbia University, I decided to
 All details and files are uploaded to: https://github.com/ablobos/myfirsteverportfolio
 ## The Sneak Peek
 
-[Portfolio Site Preview] (https://github.com/ablobos/myfirsteverportfolio/blob/main/assets/images/The%20Preview.gif)
 ![thepreview](https://user-images.githubusercontent.com/117130907/202604146-dd56828b-5193-4b85-9dcc-04b97e4475dc.gif)
+(https://github.com/ablobos/myfirsteverportfolio/blob/main/assets/images/The%20Preview.gif)
 
 
 ## Sources
