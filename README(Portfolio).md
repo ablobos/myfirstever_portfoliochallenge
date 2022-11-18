@@ -13,7 +13,7 @@ As one of my earliest challenges since joining Columbia University, I decided to
 
 4. Features
 
-5. License/Disclaimer
+5. License
 
 ## The Creation
 All details and files are uploaded to: https://github.com/ablobos/myfirsteverportfolio
