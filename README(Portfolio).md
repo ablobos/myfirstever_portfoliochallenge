@@ -1,5 +1,5 @@
 
-# First Ever Portfolio
+# Portfolio Project
 
 As one of my earliest challenges since joining Columbia University, I decided to commit an abundance of hours to create my first ever portfolio assignment. I would not be as successful with this project if it wasn't for my classmates, TA options, and my co-worker who was the first to motivated me in taking the course. This clearly is not the best work I will ever create but I am fairly proud of the assignment and what it took to complete it for a grade. It definetly sets the pace for the rest of the exciting journey. 
 
