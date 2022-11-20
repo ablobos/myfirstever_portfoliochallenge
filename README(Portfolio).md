@@ -1,7 +1,7 @@
 
-# First Ever Portfolio
+# Portfolio Project
 
-As one of my earliest challenges since joining Columbia University, I decided to commit an abundance of hours to create my first ever portfolio assignment. I would not be as successful with this project if it wasn't for my classmates, TA options, and my co-worker who was the first to motivated me in taking the course. This clearly is not the best work I will ever create but I am fairly proud of the assignment and what it took to complete it for a grade. It definetly sets the pace for the rest of the exciting journey. 
+As one of my earliest challenges since joining Columbia University, I decided to commit an abundance of hours to create my first ever portfolio assignment. I would not be as successful with this project if it wasn't for my classmates, TA options, and my co-worker who was the first to motivate me in taking the course. This clearly is not the best work I will ever create but I am fairly proud of the assignment and what it took to complete it for a grade. It definetly sets the pace for the rest of the exciting journey. 
 
 
 ## Table of Contents
@@ -13,13 +13,12 @@ As one of my earliest challenges since joining Columbia University, I decided to
 
 4. Features
 
-5. License/Disclaimer
+5. License
 
 ## The Creation
 All details and files are uploaded to: https://github.com/ablobos/myfirsteverportfolio
 ## The Sneak Peek
-
-[Portfolio Site Preview] (https://github.com/ablobos/myfirsteverportfolio/blob/main/assets/images/The%20Preview.gif)
+![image](https://user-images.githubusercontent.com/117130907/202880471-d798fe59-97ce-4f9e-9b61-780b65cfa3f9.png)
 
 
 ## Sources
@@ -35,7 +34,7 @@ All details and files are uploaded to: https://github.com/ablobos/myfirsteverpor
 3. Gradient color schemes and hover attributes demonstrated.
 4. Personal development and projects shared.
 5. Responsive layout.
-## License/Disclaimer
+## License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
